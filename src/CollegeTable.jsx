@@ -10,12 +10,12 @@ const CollegeTable = ({ tabledata }) => {
       <table className="min-w-full border border-gray-300">
         <thead className="bg-cyan-500">
           <tr className="text-left">
-            <th className="border border-gray-300 px-4 py-2">CD Rank</th>
-            <th className="border border-gray-300 px-4 py-2">Data</th>
-            <th className="border border-gray-300 px-4 py-2">Course Fees</th>
-            <th className="border border-gray-300 px-4 py-2">Placement</th>
-            <th className="border border-gray-300 px-4 py-2">User Reviews</th>
-            <th className="border border-gray-300 px-4 py-2">Ranking</th>
+            <th className="border border-gray-300 px-4 text-sm w-1/12 p-2">CD Rank</th>
+            <th className="border border-gray-300 px-4 text-sm p-2">Data</th>
+            <th className="border border-gray-300 px-4 text-sm w-fit p-2">Course Fees</th>
+            <th className="border border-gray-300 px-4 text-sm w-fit p-2">Placement</th>
+            <th className="border border-gray-300 px-4 text-sm p-2">User Reviews</th>
+            <th className="border border-gray-300 px-4 text-sm p-2">Ranking</th>
           </tr>
         </thead>
         <tbody>

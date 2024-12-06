@@ -38,7 +38,6 @@ function App() {
     }
   }, [search, data]);
 
-  // Handle sorting and filtering
   useEffect(() => {
     if (filter === '') {
       setTemp(data);
@@ -51,16 +50,16 @@ function App() {
   return (
     <div className="App bg-gray-100 min-h-screen">
       <div>
-        <div className="flex gap-4 items-center justify-evenly bg-white p-2 shadow-md">
+        <div className="flex gap-4 items-center justify-evenly bg-white p-3 shadow-md">
           <div className="flex items-center gap-4">
-            <label htmlFor="filter" className=" text-xs text-gray-700">
+            <label htmlFor="filter" className=" text-s text-gray-700">
               Filter By:
             </label>
             <select
               id="filter"
               value={filter}
               onChange={(e) => setFilter(e.target.value)}
-              className="border border-gray-300 rounded-lg p-2 text-gray-700 "
+              className="border border-gray-300 rounded-lg p-1 text-gray-700 "
             >
               <option value="" disabled>
                 Select Filter
@@ -74,7 +73,7 @@ function App() {
                 id="order"
                 value={order}
                 onChange={(e) => setOrder(e.target.value)}
-                className="border border-gray-300 rounded-lg p-2 text-gray-700 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+                className="border border-gray-300 rounded-lg p-1 text-gray-700 focus:ring-2 focus:ring-blue-500 focus:outline-none"
               >
                 <option value="Asc">Asc</option>
                 <option value="Desc">Desc</option>
