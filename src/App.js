@@ -24,6 +24,7 @@ function App() {
 
   useEffect(() => {
     const url = 'https://college-dashboard-three.vercel.app/data.json';
+    // const url = 'http://localhost:3000/data.json';
     fetchData(url);
   }, []);
 
@@ -50,9 +51,9 @@ function App() {
   return (
     <div className="App bg-gray-100 min-h-screen">
       <div>
-        <div className="flex gap-4 items-center justify-evenly bg-white p-4 shadow-md">
+        <div className="flex gap-4 items-center justify-evenly bg-white p-2 shadow-md">
           <div className="flex items-center gap-4">
-            <label htmlFor="filter" className="text-lg font-medium text-gray-700">
+            <label htmlFor="filter" className=" text-xs text-gray-700">
               Filter By:
             </label>
             <select
