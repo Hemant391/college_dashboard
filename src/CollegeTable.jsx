@@ -43,7 +43,7 @@ const CollegeTable = ({ tabledata }) => {
                       )}
                     </p>
                     <p className="text-sm text-gray-500">{college.address}</p>
-                    <div className="text-sm bg-orange-100 w-fit border-l-4 border-l-orange-600 pr-1 ">
+                    <div className="text-sm bg-orange-100 w-fit border-l-4 border-l-orange-600 pr-1 my-1 ">
                       <p className="text-orange-600 ml-3">{college.course} </p>
                       <p className="text-sm ml-3">{college.cutoff}</p>
                     </div>
