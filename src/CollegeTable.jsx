@@ -10,12 +10,12 @@ const CollegeTable = ({ tabledata }) => {
       <table className="min-w-full border border-gray-300">
         <thead className="bg-cyan-500">
           <tr className="text-left">
-            <th className="border border-gray-300 px-4 text-sm  p-2">CD Rank</th>
-            <th className="border border-gray-300 px-4 text-sm p-2">Data</th>
-            <th className="border border-gray-300 px-4 text-sm w-40 p-2">Course Fees</th>
-            <th className="border border-gray-300 px-4 text-sm w-52 p-2">Placement</th>
-            <th className="border border-gray-300 px-4 text-sm p-2">User Reviews</th>
-            <th className="border border-gray-300 px-4 text-sm p-2">Ranking</th>
+            <th className="border border-gray-300 px-4 py-2">CD Rank</th>
+            <th className="border border-gray-300 px-4 py-2">Data</th>
+            <th className="border border-gray-300 px-4 py-2">Course Fees</th>
+            <th className="border border-gray-300 px-4 py-2">Placement</th>
+            <th className="border border-gray-300 px-4 py-2">User Reviews</th>
+            <th className="border border-gray-300 px-4 py-2">Ranking</th>
           </tr>
         </thead>
         <tbody>
@@ -25,7 +25,7 @@ const CollegeTable = ({ tabledata }) => {
                 #{college.rank}
               </td>
               <td className=" flex flex-col border border-gray-300 px-4 py-2">
-                <div className="flex gap-3 text-sm  ">
+                <div className="flex gap-3   ">
                   <div className="flex items-center justify-center w-16 h-16 rounded-full overflow-hidden">
                     <img
                       src="./defaultimage.jpg"
@@ -43,7 +43,7 @@ const CollegeTable = ({ tabledata }) => {
                       )}
                     </p>
                     <p className="text-sm text-gray-500">{college.address}</p>
-                    <div className="text-sm bg-orange-100 w-fit border-l-4 border-l-orange-600 pr-1 my-1 ">
+                    <div className="text-sm bg-orange-100 w-fit border-l-4 border-l-orange-600 pr-1 ">
                       <p className="text-orange-600 ml-3">{college.course} </p>
                       <p className="text-sm ml-3">{college.cutoff}</p>
                     </div>
@@ -92,7 +92,7 @@ const CollegeTable = ({ tabledata }) => {
                 </p>
               </td>
               <td className="border border-gray-300 px-4">
-                <p className="text-xl font-semibold">{college.review} / 10</p>
+                <p className="text-xl font-semibold">{college.review} span/ 10</p>
                 <div style={{ lineHeight: "15px", fontSize: "13px" }}>
                   <p>Based on {college.number_user}</p>
                   <p>Reviews</p>
