@@ -11,7 +11,7 @@ const CollegeTable = ({ tabledata }) => {
 
   useEffect(() => {
     if (tabledata.length > 0) {
-      setItems(tabledata.slice(0, 10)); // Load the initial 10 items
+      setItems(tabledata.slice(0, 10));
     }
   }, [tabledata]);
 
