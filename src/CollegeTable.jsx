@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { FaExchangeAlt } from "react-icons/fa";
 import { FaArrowRightLong } from "react-icons/fa6";
 import { FaDownload } from "react-icons/fa6";
@@ -9,14 +9,21 @@ const CollegeTable = ({ tabledata }) => {
   const [items, setItems] = useState(tabledata.slice(0, 10));
   const [hasMore, setHasMore] = useState(true);
 
+  useEffect(() => {
+    if (tabledata.length > 0) {
+      setItems(tabledata.slice(0, 10)); // Load the initial 10 items
+    }
+  }, [tabledata]);
+
+
   const fetchMoreData = () => {
     if (items.length >= tabledata.length) {
       setHasMore(false); 
       return;
     }
     setTimeout(() => {
-      setItems((prev) =>
-        prev.concat(tabledata.slice(prev.length, prev.length + 10))
+      setItems((prevItems) =>
+        prevItems.concat(tabledata.slice(prevItems.length, prevItems.length + 10))
       );
     }, 1000);
   };
