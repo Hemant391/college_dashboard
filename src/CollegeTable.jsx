@@ -1,12 +1,42 @@
-import React from "react";
+import React, { useState } from "react";
 import { FaExchangeAlt } from "react-icons/fa";
 import { FaArrowRightLong } from "react-icons/fa6";
 import { FaDownload } from "react-icons/fa6";
 import { TiTick } from "react-icons/ti";
+import InfiniteScroll from "react-infinite-scroll-component";
 
 const CollegeTable = ({ tabledata }) => {
+  const [items, setItems] = useState(tabledata.slice(0, 10));
+  const [hasMore, setHasMore] = useState(true);
+
+  const fetchMoreData = () => {
+    if (items.length >= tabledata.length) {
+      setHasMore(false); 
+      return;
+    }
+    setTimeout(() => {
+      setItems((prevItems) =>
+        prevItems.concat(tabledata.slice(prevItems.length, prevItems.length + 10))
+      );
+    }, 1000);
+  };
+
+
   return (
+   
+
     <div className=" mx-auto py-1 px-14">
+       <InfiniteScroll
+        dataLength={items.length}
+        next={fetchMoreData}
+        hasMore={hasMore}
+        loader={<h4 className="text-center my-4">Loading...</h4>}
+        endMessage={
+          <p className="text-center my-4">
+            <b>Yay! You have seen it all</b>
+          </p>
+        }
+      >
       <table className="min-w-full border border-gray-300">
         <thead className="bg-cyan-500">
           <tr className="text-left">
@@ -19,7 +49,8 @@ const CollegeTable = ({ tabledata }) => {
           </tr>
         </thead>
         <tbody>
-          {tabledata.map((college, index) => (
+
+          {items.map((college, index) => (
             <tr key={index} className="hover:bg-gray-200">
               <td className="border border-gray-300 px-4 py-2">
                 #{college.rank}
@@ -31,7 +62,7 @@ const CollegeTable = ({ tabledata }) => {
                       src="./defaultimage.jpg"
                       alt="Pic"
                       className="w-full h-full object-cover"
-                    />
+                      />
                   </div>
                   <div>
                     <p className="font-semibold text-blue-500">
@@ -110,10 +141,13 @@ const CollegeTable = ({ tabledata }) => {
               </td>
             </tr>
           ))}
+        
         </tbody>
       </table>
+      </InfiniteScroll>
     </div>
   );
 };
 
+         
 export default CollegeTable;

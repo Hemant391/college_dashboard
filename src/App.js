@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react';
-import CollegeTable from './CollegeTable';
+import React, { useEffect, useState } from 'react';
 import './index.css';
 import { filterfunction, searchfunction } from './Filterfunctions';
+import CollegeTable from './CollegeTable';
 
 function App() {
   const [data, setData] = useState([]);
@@ -23,8 +23,8 @@ function App() {
   }
 
   useEffect(() => {
-    const url = 'https://college-dashboard-three.vercel.app/data.json';
-    // const url = 'http://localhost:3000/data.json';
+    // const url = 'https://college-dashboard-three.vercel.app/data.json';
+    const url = 'http://localhost:3000/data.json';
     fetchData(url);
   }, []);
 
@@ -102,8 +102,9 @@ function App() {
           </div>
         </div>
       </div>
-
+              
       <CollegeTable tabledata={temp} />
+    
     </div>
   );
 }

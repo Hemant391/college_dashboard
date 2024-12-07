@@ -202,6 +202,208 @@
     "featured": true
   },
   {
+    "rank": "1",
+    "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+    "address": "Chennai, Tamil Nadu",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 144",
+    "fees": "2,09,550",
+    "placement": {
+      "average": "21,48,000",
+      "highest": "1,98,00,000"
+    },
+    "review": "8.6",
+    "ranking": "3/131 in India 2023",
+    "best": "Best in Social Life",
+    "number_user": "336"
+  },
+  {
+    "rank": "2",
+    "name": "IIT Delhi - Indian Institute of Technology - [IITD], New Delhi",
+    "address": "New Delhi, Delhi NCR",
+    "course": "B.Tech + M.Tech Mathematics and Computing",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 115",
+    "fees": "2,54,650",
+    "placement": {
+      "average": "25,82,000",
+      "highest": "2,00,00,000"
+    },
+    "review": "8.7",
+    "ranking": "1/35 in India 2023",
+    "best": "Best in Social Life",
+    "number_user": "500",
+    "featured": true
+  },
+  {
+    "rank": "3",
+    "name": "Parul University, Vadodara",
+    "address": "Vadodara, Gujarat",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "Cutoff: NA",
+    "fees": "1,49,000",
+    "placement": {
+      "average": "4,00,000",
+      "highest": "30,00,000"
+    },
+    "review": "8.1",
+    "ranking": "99/147 in India 2019",
+    "best": "Best in Infrastructure"
+  },
+  {
+    "rank": "4",
+    "name": "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai",
+    "address": "Mumbai, Maharashtra",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 66",
+    "fees": "2,29,300",
+    "placement": {
+      "average": "21,82,000",
+      "highest": "3,67,00,000"
+    },
+    "review": "8.8",
+    "ranking": "2/35 in India 2023",
+    "best": "Best in Social Life"
+  },
+  {
+    "rank": "5",
+    "name": "IIT Kanpur - Indian Institute of Technology - [IITK], Kanpur",
+    "address": "Kanpur, Uttar Pradesh",
+    "course": "B.Tech Mechanical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 75",
+    "fees": "2,20,000",
+    "placement": {
+      "average": "18,00,000",
+      "highest": "1,50,00,000"
+    },
+    "review": "8.5",
+    "ranking": "4/50 in India 2023",
+    "best": "Best in Placements",
+    "featured": true
+  },
+  {
+    "rank": "6",
+    "name": "IIT Kharagpur - Indian Institute of Technology - [IITKGP], Kharagpur",
+    "address": "Kharagpur, West Bengal",
+    "course": "B.Tech Electrical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 83",
+    "fees": "2,25,000",
+    "placement": {
+      "average": "20,50,000",
+      "highest": "2,10,00,000"
+    },
+    "review": "8.4",
+    "ranking": "5/45 in India 2023",
+    "best": "Best in Research"
+  },
+  {
+    "rank": "7",
+    "name": "IIT Roorkee - Indian Institute of Technology - [IITR], Roorkee",
+    "address": "Roorkee, Uttarakhand",
+    "course": "B.Tech Civil Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 90",
+    "fees": "2,10,000",
+    "placement": {
+      "average": "15,20,000",
+      "highest": "1,80,00,000"
+    },
+    "review": "8.3",
+    "ranking": "6/38 in India 2023",
+    "best": "Best in Environment"
+  },
+  {
+    "rank": "8",
+    "name": "IIT Guwahati - Indian Institute of Technology - [IITG], Guwahati",
+    "address": "Guwahati, Assam",
+    "course": "B.Tech Chemical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 120",
+    "fees": "2,15,000",
+    "placement": {
+      "average": "18,30,000",
+      "highest": "1,70,00,000"
+    },
+    "review": "8.2",
+    "ranking": "7/40 in India 2023",
+    "best": "Best in Faculty",
+    "featured": true
+  },
+  {
+    "rank": "9",
+    "name": "NIT Trichy - National Institute of Technology, Tiruchirappalli",
+    "address": "Tiruchirappalli, Tamil Nadu",
+    "course": "B.Tech Electronics and Communication Engineering",
+    "cutoff": "JEE Mains Cutoff: 200",
+    "fees": "1,50,000",
+    "placement": {
+      "average": "12,00,000",
+      "highest": "1,20,00,000"
+    },
+    "review": "8.0",
+    "ranking": "8/70 in India 2023",
+    "best": "Best in Infrastructure"
+  },
+  {
+    "rank": "10",
+    "name": "BITS Pilani - Birla Institute of Technology and Science, Pilani",
+    "address": "Pilani, Rajasthan",
+    "course": "B.Tech Computer Science",
+    "cutoff": "BITSAT Cutoff: 280",
+    "fees": "4,00,000",
+    "placement": {
+      "average": "15,50,000",
+      "highest": "2,50,00,000"
+    },
+    "review": "8.9",
+    "ranking": "2/20 in India 2023",
+    "best": "Best in Innovation"
+  },
+  {
+    "rank": "11",
+    "name": "VIT Vellore - Vellore Institute of Technology, Vellore",
+    "address": "Vellore, Tamil Nadu",
+    "course": "B.Tech Biotechnology",
+    "cutoff": "VITEEE Cutoff: 150",
+    "fees": "1,98,000",
+    "placement": {
+      "average": "7,00,000",
+      "highest": "80,00,000"
+    },
+    "review": "7.9",
+    "ranking": "15/100 in India 2023",
+    "best": "Best in Diversity",
+    "featured": true
+  },
+  {
+    "rank": "12",
+    "name": "SRM University, Chennai",
+    "address": "Chennai, Tamil Nadu",
+    "course": "B.Tech Information Technology",
+    "cutoff": "SRMJEEE Cutoff: 180",
+    "fees": "2,50,000",
+    "placement": {
+      "average": "8,00,000",
+      "highest": "1,00,00,000"
+    },
+    "review": "8.1",
+    "ranking": "10/50 in India 2023",
+    "best": "Best in Facilities"
+  },
+  {
+    "rank": "13",
+    "name": "Amity University, Noida",
+    "address": "Noida, Uttar Pradesh",
+    "course": "B.Tech Artificial Intelligence",
+    "cutoff": "Cutoff: 120",
+    "fees": "3,50,000",
+    "placement": {
+      "average": "6,00,000",
+      "highest": "70,00,000"
+    },
+    "review": "7.8",
+    "ranking": "20/120 in India 2023",
+    "best": "Best in Student Life",
+    "featured": true
+  },
+  {
     "rank": "14",
     "name": "Manipal University, Jaipur",
     "address": "Jaipur, Rajasthan",
@@ -294,6 +496,517 @@
   },
   {
     "rank": "20",
+    "name": "Christ University, Bangalore",
+    "address": "Bangalore, Karnataka",
+    "course": "B.Tech Software Engineering",
+    "cutoff": "Cutoff: 160",
+    "fees": "2,10,000",
+    "placement": {
+      "average": "6,80,000",
+      "highest": "85,00,000"
+    },
+    "review": "7.8",
+    "ranking": "20/120 in India 2023",
+    "best": "Best in Culture and Diversity",
+    "featured": true
+  },
+  {
+    "rank": "1",
+    "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+    "address": "Chennai, Tamil Nadu",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 144",
+    "fees": "2,09,550",
+    "placement": {
+      "average": "21,48,000",
+      "highest": "1,98,00,000"
+    },
+    "review": "8.6",
+    "ranking": "3/131 in India 2023",
+    "best": "Best in Social Life",
+    "number_user": "336"
+  },
+  {
+    "rank": "2",
+    "name": "IIT Delhi - Indian Institute of Technology - [IITD], New Delhi",
+    "address": "New Delhi, Delhi NCR",
+    "course": "B.Tech + M.Tech Mathematics and Computing",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 115",
+    "fees": "2,54,650",
+    "placement": {
+      "average": "25,82,000",
+      "highest": "2,00,00,000"
+    },
+    "review": "8.7",
+    "ranking": "1/35 in India 2023",
+    "best": "Best in Social Life",
+    "number_user": "500",
+    "featured": true
+  },
+  {
+    "rank": "3",
+    "name": "Parul University, Vadodara",
+    "address": "Vadodara, Gujarat",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "Cutoff: NA",
+    "fees": "1,49,000",
+    "placement": {
+      "average": "4,00,000",
+      "highest": "30,00,000"
+    },
+    "review": "8.1",
+    "ranking": "99/147 in India 2019",
+    "best": "Best in Infrastructure"
+  },
+  {
+    "rank": "4",
+    "name": "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai",
+    "address": "Mumbai, Maharashtra",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 66",
+    "fees": "2,29,300",
+    "placement": {
+      "average": "21,82,000",
+      "highest": "3,67,00,000"
+    },
+    "review": "8.8",
+    "ranking": "2/35 in India 2023",
+    "best": "Best in Social Life"
+  },
+  {
+    "rank": "5",
+    "name": "IIT Kanpur - Indian Institute of Technology - [IITK], Kanpur",
+    "address": "Kanpur, Uttar Pradesh",
+    "course": "B.Tech Mechanical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 75",
+    "fees": "2,20,000",
+    "placement": {
+      "average": "18,00,000",
+      "highest": "1,50,00,000"
+    },
+    "review": "8.5",
+    "ranking": "4/50 in India 2023",
+    "best": "Best in Placements",
+    "featured": true
+  },
+  {
+    "rank": "6",
+    "name": "IIT Kharagpur - Indian Institute of Technology - [IITKGP], Kharagpur",
+    "address": "Kharagpur, West Bengal",
+    "course": "B.Tech Electrical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 83",
+    "fees": "2,25,000",
+    "placement": {
+      "average": "20,50,000",
+      "highest": "2,10,00,000"
+    },
+    "review": "8.4",
+    "ranking": "5/45 in India 2023",
+    "best": "Best in Research"
+  },
+  {
+    "rank": "7",
+    "name": "IIT Roorkee - Indian Institute of Technology - [IITR], Roorkee",
+    "address": "Roorkee, Uttarakhand",
+    "course": "B.Tech Civil Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 90",
+    "fees": "2,10,000",
+    "placement": {
+      "average": "15,20,000",
+      "highest": "1,80,00,000"
+    },
+    "review": "8.3",
+    "ranking": "6/38 in India 2023",
+    "best": "Best in Environment"
+  },
+  {
+    "rank": "8",
+    "name": "IIT Guwahati - Indian Institute of Technology - [IITG], Guwahati",
+    "address": "Guwahati, Assam",
+    "course": "B.Tech Chemical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 120",
+    "fees": "2,15,000",
+    "placement": {
+      "average": "18,30,000",
+      "highest": "1,70,00,000"
+    },
+    "review": "8.2",
+    "ranking": "7/40 in India 2023",
+    "best": "Best in Faculty",
+    "featured": true
+  },
+  {
+    "rank": "9",
+    "name": "NIT Trichy - National Institute of Technology, Tiruchirappalli",
+    "address": "Tiruchirappalli, Tamil Nadu",
+    "course": "B.Tech Electronics and Communication Engineering",
+    "cutoff": "JEE Mains Cutoff: 200",
+    "fees": "1,50,000",
+    "placement": {
+      "average": "12,00,000",
+      "highest": "1,20,00,000"
+    },
+    "review": "8.0",
+    "ranking": "8/70 in India 2023",
+    "best": "Best in Infrastructure"
+  },
+  {
+    "rank": "10",
+    "name": "BITS Pilani - Birla Institute of Technology and Science, Pilani",
+    "address": "Pilani, Rajasthan",
+    "course": "B.Tech Computer Science",
+    "cutoff": "BITSAT Cutoff: 280",
+    "fees": "4,00,000",
+    "placement": {
+      "average": "15,50,000",
+      "highest": "2,50,00,000"
+    },
+    "review": "8.9",
+    "ranking": "2/20 in India 2023",
+    "best": "Best in Innovation"
+  },
+  {
+    "rank": "11",
+    "name": "VIT Vellore - Vellore Institute of Technology, Vellore",
+    "address": "Vellore, Tamil Nadu",
+    "course": "B.Tech Biotechnology",
+    "cutoff": "VITEEE Cutoff: 150",
+    "fees": "1,98,000",
+    "placement": {
+      "average": "7,00,000",
+      "highest": "80,00,000"
+    },
+    "review": "7.9",
+    "ranking": "15/100 in India 2023",
+    "best": "Best in Diversity",
+    "featured": true
+  },
+  {
+    "rank": "12",
+    "name": "SRM University, Chennai",
+    "address": "Chennai, Tamil Nadu",
+    "course": "B.Tech Information Technology",
+    "cutoff": "SRMJEEE Cutoff: 180",
+    "fees": "2,50,000",
+    "placement": {
+      "average": "8,00,000",
+      "highest": "1,00,00,000"
+    },
+    "review": "8.1",
+    "ranking": "10/50 in India 2023",
+    "best": "Best in Facilities"
+  },
+  {
+    "rank": "13",
+    "name": "Amity University, Noida",
+    "address": "Noida, Uttar Pradesh",
+    "course": "B.Tech Artificial Intelligence",
+    "cutoff": "Cutoff: 120",
+    "fees": "3,50,000",
+    "placement": {
+      "average": "6,00,000",
+      "highest": "70,00,000"
+    },
+    "review": "7.8",
+    "ranking": "20/120 in India 2023",
+    "best": "Best in Student Life",
+    "featured": true
+  },
+  {
+    "rank": "1",
+    "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+    "address": "Chennai, Tamil Nadu",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 144",
+    "fees": "2,09,550",
+    "placement": {
+      "average": "21,48,000",
+      "highest": "1,98,00,000"
+    },
+    "review": "8.6",
+    "ranking": "3/131 in India 2023",
+    "best": "Best in Social Life",
+    "number_user": "336"
+  },
+  {
+    "rank": "2",
+    "name": "IIT Delhi - Indian Institute of Technology - [IITD], New Delhi",
+    "address": "New Delhi, Delhi NCR",
+    "course": "B.Tech + M.Tech Mathematics and Computing",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 115",
+    "fees": "2,54,650",
+    "placement": {
+      "average": "25,82,000",
+      "highest": "2,00,00,000"
+    },
+    "review": "8.7",
+    "ranking": "1/35 in India 2023",
+    "best": "Best in Social Life",
+    "number_user": "500",
+    "featured": true
+  },
+  {
+    "rank": "3",
+    "name": "Parul University, Vadodara",
+    "address": "Vadodara, Gujarat",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "Cutoff: NA",
+    "fees": "1,49,000",
+    "placement": {
+      "average": "4,00,000",
+      "highest": "30,00,000"
+    },
+    "review": "8.1",
+    "ranking": "99/147 in India 2019",
+    "best": "Best in Infrastructure"
+  },
+  {
+    "rank": "4",
+    "name": "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai",
+    "address": "Mumbai, Maharashtra",
+    "course": "B.Tech Computer Science Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 66",
+    "fees": "2,29,300",
+    "placement": {
+      "average": "21,82,000",
+      "highest": "3,67,00,000"
+    },
+    "review": "8.8",
+    "ranking": "2/35 in India 2023",
+    "best": "Best in Social Life"
+  },
+  {
+    "rank": "5",
+    "name": "IIT Kanpur - Indian Institute of Technology - [IITK], Kanpur",
+    "address": "Kanpur, Uttar Pradesh",
+    "course": "B.Tech Mechanical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 75",
+    "fees": "2,20,000",
+    "placement": {
+      "average": "18,00,000",
+      "highest": "1,50,00,000"
+    },
+    "review": "8.5",
+    "ranking": "4/50 in India 2023",
+    "best": "Best in Placements",
+    "featured": true
+  },
+  {
+    "rank": "6",
+    "name": "IIT Kharagpur - Indian Institute of Technology - [IITKGP], Kharagpur",
+    "address": "Kharagpur, West Bengal",
+    "course": "B.Tech Electrical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 83",
+    "fees": "2,25,000",
+    "placement": {
+      "average": "20,50,000",
+      "highest": "2,10,00,000"
+    },
+    "review": "8.4",
+    "ranking": "5/45 in India 2023",
+    "best": "Best in Research"
+  },
+  {
+    "rank": "7",
+    "name": "IIT Roorkee - Indian Institute of Technology - [IITR], Roorkee",
+    "address": "Roorkee, Uttarakhand",
+    "course": "B.Tech Civil Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 90",
+    "fees": "2,10,000",
+    "placement": {
+      "average": "15,20,000",
+      "highest": "1,80,00,000"
+    },
+    "review": "8.3",
+    "ranking": "6/38 in India 2023",
+    "best": "Best in Environment"
+  },
+  {
+    "rank": "8",
+    "name": "IIT Guwahati - Indian Institute of Technology - [IITG], Guwahati",
+    "address": "Guwahati, Assam",
+    "course": "B.Tech Chemical Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 120",
+    "fees": "2,15,000",
+    "placement": {
+      "average": "18,30,000",
+      "highest": "1,70,00,000"
+    },
+    "review": "8.2",
+    "ranking": "7/40 in India 2023",
+    "best": "Best in Faculty",
+    "featured": true
+  },
+  {
+    "rank": "9",
+    "name": "NIT Trichy - National Institute of Technology, Tiruchirappalli",
+    "address": "Tiruchirappalli, Tamil Nadu",
+    "course": "B.Tech Electronics and Communication Engineering",
+    "cutoff": "JEE Mains Cutoff: 200",
+    "fees": "1,50,000",
+    "placement": {
+      "average": "12,00,000",
+      "highest": "1,20,00,000"
+    },
+    "review": "8.0",
+    "ranking": "8/70 in India 2023",
+    "best": "Best in Infrastructure"
+  },
+  {
+    "rank": "10",
+    "name": "BITS Pilani - Birla Institute of Technology and Science, Pilani",
+    "address": "Pilani, Rajasthan",
+    "course": "B.Tech Computer Science",
+    "cutoff": "BITSAT Cutoff: 280",
+    "fees": "4,00,000",
+    "placement": {
+      "average": "15,50,000",
+      "highest": "2,50,00,000"
+    },
+    "review": "8.9",
+    "ranking": "2/20 in India 2023",
+    "best": "Best in Innovation"
+  },
+  {
+    "rank": "11",
+    "name": "VIT Vellore - Vellore Institute of Technology, Vellore",
+    "address": "Vellore, Tamil Nadu",
+    "course": "B.Tech Biotechnology",
+    "cutoff": "VITEEE Cutoff: 150",
+    "fees": "1,98,000",
+    "placement": {
+      "average": "7,00,000",
+      "highest": "80,00,000"
+    },
+    "review": "7.9",
+    "ranking": "15/100 in India 2023",
+    "best": "Best in Diversity",
+    "featured": true
+  },
+  {
+    "rank": "12",
+    "name": "SRM University, Chennai",
+    "address": "Chennai, Tamil Nadu",
+    "course": "B.Tech Information Technology",
+    "cutoff": "SRMJEEE Cutoff: 180",
+    "fees": "2,50,000",
+    "placement": {
+      "average": "8,00,000",
+      "highest": "1,00,00,000"
+    },
+    "review": "8.1",
+    "ranking": "10/50 in India 2023",
+    "best": "Best in Facilities"
+  },
+  {
+    "rank": "13",
+    "name": "Amity University, Noida",
+    "address": "Noida, Uttar Pradesh",
+    "course": "B.Tech Artificial Intelligence",
+    "cutoff": "Cutoff: 120",
+    "fees": "3,50,000",
+    "placement": {
+      "average": "6,00,000",
+      "highest": "70,00,000"
+    },
+    "review": "7.8",
+    "ranking": "20/120 in India 2023",
+    "best": "Best in Student Life",
+    "featured": true
+  },
+  {
+    "rank": "14",
+    "name": "Manipal University, Jaipur",
+    "address": "Jaipur, Rajasthan",
+    "course": "B.Tech Data Science",
+    "cutoff": "Cutoff: NA",
+    "fees": "2,70,000",
+    "placement": {
+      "average": "6,50,000",
+      "highest": "75,00,000"
+    },
+    "review": "7.7",
+    "ranking": "25/150 in India 2023",
+    "best": "Best in Campus Life"
+  },
+  {
+    "rank": "15",
+    "name": "Chandigarh University, Mohali",
+    "address": "Mohali, Punjab",
+    "course": "B.Tech Cybersecurity",
+    "cutoff": "Cutoff: 180",
+    "fees": "1,80,000",
+    "placement": {
+      "average": "6,20,000",
+      "highest": "68,00,000"
+    },
+    "review": "7.6",
+    "ranking": "30/100 in India 2023",
+    "best": "Best in Innovation"
+  },
+  {
+    "rank": "16",
+    "name": "Shiv Nadar University, Noida",
+    "address": "Noida, Uttar Pradesh",
+    "course": "B.Tech Artificial Intelligence and Data Science",
+    "cutoff": "Cutoff: NA",
+    "fees": "2,90,000",
+    "placement": {
+      "average": "8,20,000",
+      "highest": "1,20,00,000"
+    },
+    "review": "7.9",
+    "ranking": "18/90 in India 2023",
+    "best": "Best in Industry Exposure",
+    "featured": true
+  },
+  {
+    "rank": "17",
+    "name": "Lovely Professional University, Jalandhar",
+    "address": "Jalandhar, Punjab",
+    "course": "B.Tech CSE with Cloud Computing",
+    "cutoff": "Cutoff: NA",
+    "fees": "1,60,000",
+    "placement": {
+      "average": "5,80,000",
+      "highest": "60,00,000"
+    },
+    "review": "7.5",
+    "ranking": "35/120 in India 2023",
+    "best": "Best in Facilities"
+  },
+  {
+    "rank": "18",
+    "name": "IIIT Hyderabad - International Institute of Information Technology",
+    "address": "Hyderabad, Telangana",
+    "course": "B.Tech Computer Science and Engineering",
+    "cutoff": "JEE-Advanced 2023 Cutoff: 145",
+    "fees": "3,00,000",
+    "placement": {
+      "average": "22,00,000",
+      "highest": "2,20,00,000"
+    },
+    "review": "8.9",
+    "ranking": "1/50 in India 2023",
+    "best": "Best in Research"
+  },
+  {
+    "rank": "19",
+    "name": "MIT World Peace University, Pune",
+    "address": "Pune, Maharashtra",
+    "course": "B.Tech CSE with AI and ML",
+    "cutoff": "Cutoff: 200",
+    "fees": "2,20,000",
+    "placement": {
+      "average": "7,50,000",
+      "highest": "95,00,000"
+    },
+    "review": "8.2",
+    "ranking": "12/80 in India 2023",
+    "best": "Best in Social Impact"
+  },
+  {
+    "rank": "50",
     "name": "Christ University, Bangalore",
     "address": "Bangalore, Karnataka",
     "course": "B.Tech Software Engineering",
