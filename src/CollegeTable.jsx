@@ -130,7 +130,7 @@ const CollegeTable = ({ tabledata }) => {
                 </p>
               </td>
               <td className="border border-gray-300 px-4">
-                <p className="text-xl font-semibold">{college.review} span/ 10</p>
+                <p className="text-xl font-semibold">{college.review} / 10</p>
                 <div style={{ lineHeight: "15px", fontSize: "13px" }}>
                   <p>Based on {college.number_user}</p>
                   <p>Reviews</p>
