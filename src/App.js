@@ -10,25 +10,25 @@ function App() {
   const [search, setSearch] = useState('');
   const [order, setOrder] = useState('Asc');
 
-  // Fetch data from API or JSON
+ 
   async function fetchData(url) {
     try {
       const res = await fetch(url);
       const response = await res.json();
       setData(response);
-      setTemp(response); // Initialize temp with full data
+      setTemp(response); 
     } catch (err) {
       console.error('Error fetching data:', err);
     }
   }
 
   useEffect(() => {
-    const url = 'https://college-dashboard-three.vercel.app/data.json';
+    const url = 'https://collegedunia-liart.vercel.app/data.json';
     // const url = 'http://localhost:3000/data.json';
     fetchData(url);
   }, []);
 
-  // Handle search filtering
+
   useEffect(() => {
     if (search === '') {
       setTemp(data);

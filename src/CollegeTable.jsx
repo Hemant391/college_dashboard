@@ -15,8 +15,8 @@ const CollegeTable = ({ tabledata }) => {
       return;
     }
     setTimeout(() => {
-      setItems((prevItems) =>
-        prevItems.concat(tabledata.slice(prevItems.length, prevItems.length + 10))
+      setItems((prev) =>
+        prev.concat(tabledata.slice(prev.length, prev.length + 10))
       );
     }, 1000);
   };
