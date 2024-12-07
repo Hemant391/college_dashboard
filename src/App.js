@@ -23,8 +23,8 @@ function App() {
   }
 
   useEffect(() => {
-    // const url = 'https://college-dashboard-three.vercel.app/data.json';
-    const url = 'http://localhost:3000/data.json';
+    const url = 'https://college-dashboard-three.vercel.app/data.json';
+    // const url = 'http://localhost:3000/data.json';
     fetchData(url);
   }, []);
 
